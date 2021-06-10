@@ -1,6 +1,6 @@
 # Reverse-String-using-Recursion-in-Python
 
-This is a Python Program to reverse a string using recursion.
+This is a Python Program to reverse a string using Recursion.
 
 Problem Description:
 
