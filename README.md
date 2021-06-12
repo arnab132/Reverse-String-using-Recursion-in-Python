@@ -17,7 +17,7 @@ Problem Solution:
 
 Program Explanation:
 
-1. User must enter a string.
+1. User must enter a String.
 2. The string is passed as an argument to a recursive function to reverse the string.
 3. In the function, the base condition is that if the length of the string is equal to 0, the string is returned.
 4. If not equal to 0, the reverse function is recursively called to slice the part of the string except the first character and concatenate the first character to the end of the sliced string.
