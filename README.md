@@ -4,7 +4,7 @@ This is a Python Program to reverse a string using Recursion.
 
 Problem Description:
 
-The program takes a string and reverses the string using recursion.
+The program takes a string and reverses the string using Recursion.
 
 Problem Solution:
 
